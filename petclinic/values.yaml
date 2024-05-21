@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: sanaeabahcine371/petclinic1
-  tag: latest
+  tag: 5.3.13
 
 service:
   type: LoadBalancer
