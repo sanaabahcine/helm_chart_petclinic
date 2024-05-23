@@ -18,5 +18,5 @@ ingress:
   enabled: false
 
 serviceAccount:
-  create: true
+  create: false
   name: "petclinic-service-account"
