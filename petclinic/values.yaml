@@ -6,7 +6,7 @@ image:
 
 service:
   type: NodePort
-  port: 8080
+  
 
 autoscaling:
   enabled: false
